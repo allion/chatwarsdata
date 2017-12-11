@@ -989,5 +989,23 @@
         ],
         "mana": 0.1,
         "status": "confirmed"
+    },
+        {
+        "recipeId": 0,
+        "name": "Браслеты Ночного Ордена",
+        "type": "item",
+        "tier": 1,
+        "ingredients": [
+            { "id": 236, "count": 1 },
+            { "id": 242, "count": 15 },
+            { "id": 146, "count": 14 },
+            { "id": 131, "count": 61 },
+            { "id": 115, "count": 11 },
+            { "id": 208, "count": 3 },
+            { "id": 128, "count": 29 },
+            { "id": 130, "count": 60 }
+        ],
+        "mana": 150,
+        "status": "confirmed"
     }
 ]
