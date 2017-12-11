@@ -990,7 +990,7 @@
         "mana": 0.1,
         "status": "confirmed"
     },
-        {
+    {
         "recipeId": 0,
         "name": "Браслеты Ночного Ордена",
         "type": "item",
